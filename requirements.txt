@@ -1,0 +1,6 @@
+python
+gym
+cv2
+torch
+torchvision
+numpy
